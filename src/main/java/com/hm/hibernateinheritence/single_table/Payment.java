@@ -1,4 +1,4 @@
-package com.hm.hibernateinheritence.entities;
+package com.hm.hibernateinheritence.single_table;
 
 import javax.persistence.DiscriminatorColumn;
 import javax.persistence.DiscriminatorType;
