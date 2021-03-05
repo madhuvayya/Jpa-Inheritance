@@ -1,8 +1,11 @@
 package com.hm.hibernateinheritence.single_table;
 
 import org.junit.jupiter.api.Test;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+
+// https://www.tutorialspoint.com/jpa/jpa_advanced_mappings.htm
 
 @SpringBootTest
 public class PaymentTest {
